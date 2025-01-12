@@ -1,0 +1,10 @@
+
+To split a PDF file into smaller PDFs based on the desired number of pages using C++, you can utilize the PoDoFo library. PoDoFo is a powerful library for handling PDF files in C++. Below is a simple implementation:
+
+Prerequisites
+Install the PoDoFo library:
+
+On Linux: Run sudo apt-get install libpodofo-dev.
+On Windows: Download and compile PoDoFo from its official GitHub repository.
+Set up your C++ development environment to include the PoDoFo headers and link against the PoDoFo library.
+
